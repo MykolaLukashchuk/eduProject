@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EduApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(EduApplication.class, args);
         System.out.println("Hello world!!!");
     }
